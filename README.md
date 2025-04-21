@@ -46,6 +46,5 @@ Auf diesem GitHub findest du:
 📧 Iksnimot@icloud.com
 🌐 soon
 🎥 YouTube / Twitch / Discord 
-🧭 "Vision. Code. Impact."
 
     Games sind mehr als Unterhaltung – sie sind Ausdruck, Verbindung und Erleben.
